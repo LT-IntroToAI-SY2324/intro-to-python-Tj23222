@@ -13,12 +13,12 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
-My intial thought was tha it was much easier then java and cut down alot of time
+My intial thought was tha it was much easier then java and cut down alot of time. I also liked the idea of not using codehs in school which sometimes causes issues
 
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-Alo of the defining varabiales are the same Jus in pyhton thy are made much shorter ad easier. less condtionals you need to use it
+Alo of the defining varabiales are the same Just in pyhton thy are made much shorter ad easier. less condtionals you need to use it.I enjoy this language much more because it shortens the time need to make a and create a project by alot.
 
 
 3. What are some things that you learned through this assignment?
